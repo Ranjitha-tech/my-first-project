@@ -1,0 +1,21 @@
+Class Mydetails{
+    public static void main(String[]args)
+    {
+        String name="Ranjitha";
+        int age=21;
+        byte siblings=2;
+        long phno =8951726443;
+        float height=4.9f;
+        double weight=48.6;
+        boolean isStudent=true;
+
+        System.out.println("Name:"+name);
+        System.out.println("Age:"+age);
+        System.out.println("No of siblings:"+siblings);
+        System.out.println("phnp:"+phno);
+        System.out.println("Height:"+height+"feet");
+        System.out.println("Weight:"+weight+"kg");
+        System.out.println("isStudent:"+isStudent);
+        
+    }
+}
