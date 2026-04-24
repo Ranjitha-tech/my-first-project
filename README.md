@@ -1,6 +1,6 @@
-# My First Java Project
+ My First Java Project
 
-## Description
+ Description
 
 This is a simple Java program that prints "Hello GitHUb!".
 
@@ -17,9 +17,9 @@ This is a simple Java program that prints "Hello GitHUb!".
 * Java
 
 
-## 🧪 Day 1: Java Datatypes Practice
+ 🧪 Day 1: Java Datatypes Practice
 
-### 📌 Program: Mydetails.java
+ 📌 Program: Mydetails.java
 
 This program demonstrates the use of different Java datatypes by storing and printing personal details.
 

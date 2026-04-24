@@ -1,5 +1,5 @@
-public class Operators {
-     public static void main(String [] args)
+class operators{
+    public static void main(String [] args)
         {
 
         //variable
@@ -13,5 +13,4 @@ public class Operators {
         System.out.println(a/b);
         System.out.println(a%b);
         }
-    
 }
