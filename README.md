@@ -43,5 +43,24 @@ The program prints formatted personal information using different datatypes.
 * Learned how to store and display values
 * Practiced basic Java syntax and structure
 
+🧮 Java Operators Program
+📌 Overview
+This project is a simple Java program that demonstrates the use of basic arithmetic operators. It performs operations on two integer variables and prints the results.
+
+💻 Language Used
+Java
+📂 Program Description
+
+The program:
+
+Declares two integer variables a and b
+Performs different arithmetic operations
+Prints the results to the console
+🔢 Operators Used
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Modulus (%)
 
 
