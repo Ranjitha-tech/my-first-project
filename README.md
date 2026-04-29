@@ -224,4 +224,47 @@ This program is useful for beginners to understand:
 * Conditional statements in Java
 * Basic program structure
 
+# Divisibility Checker (Java)
+
+This is a simple Java program that checks whether a number is divisible by both 3 and 5 using nested `if` statements.
+
+## 📌 Description
+
+The program initializes a number and checks:
+
+* If the number is divisible by 3
+* Then it checks if the number is also divisible by 5
+
+If both conditions are satisfied, it prints that the number is divisible by both 3 and 5.
+
+## 💻 Technologies Used
+
+* Java
+* Nested If-Else Statements
+
+## ▶️ How to Run
+
+1. Compile the program:
+   javac Divisible.java
+
+2. Run the program:
+   java Divisible
+
+## 📂 Sample Output
+
+Number is divisible by both 3 and 5
+
+## ⚠️ Note
+
+The current program only prints output when the number is divisible by both 3 and 5.
+If the number is divisible by 3 but not by 5, no output will be shown.
+
+## 🎯 Purpose
+
+This program helps beginners understand:
+
+* Nested if conditions
+* Modulus operator (`%`)
+* Logical checking in Java
+
 
